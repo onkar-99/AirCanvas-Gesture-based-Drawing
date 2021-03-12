@@ -8,4 +8,4 @@ Scores are awarded based on successful prediction by the model which is trained 
 Before starting the game, it is made mandatory to select the marker HSV colour range to select the object which is to be used for drawing doodles. 
 index.py is the start file, and make sure to include all the other files in same folder and also change path in the IDE to that folder. 
 
-Dataset: Model is trained on quickdraw dataset which is proprocessed to grayscale images in shape 64x64. 
+Dataset: Model is trained on quickdraw dataset which is proprocessed to grayscale images in shape 64x64x1. 
