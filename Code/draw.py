@@ -79,7 +79,7 @@ def draw_img(name,low,high):
             if keyboard.is_pressed('b'):
                 pen_down = 0
                 once = 1
-            if keyboard.is_pressed('d'):
+            if keyboard.is_pressed('s'):
                 append=1
                 n_pressed=0
             if append:
