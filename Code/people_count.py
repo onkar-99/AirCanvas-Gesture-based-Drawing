@@ -8,7 +8,7 @@ def count(names,low,high):
     scores=[]
     for i in range(0,n):
         s=draw.draw_img(names[i],low,high)
-        scores.append(random.choice([1,2,3,4]))
+        scores.append(s)
     print('pc-------------')
     print(scores)
     def adjustWindow(window):
