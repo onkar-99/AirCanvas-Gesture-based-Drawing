@@ -1,4 +1,4 @@
-# Doodle-in-Air
+# AirCanvas: Gesture-based Drawing using OpenCV
 
 This is a doodle drawing game which can be played by a maximum of 5 players.
 Here the doodles can be drawn in air and MAGICALLY the strokes are plotted on canvas to draw the doodles.   
